@@ -23,6 +23,76 @@
         "padding_bottom": 12
       }
     },
+    "65ae0afe-a554-4a65-b034-d84c287b630b": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "body"
+          }
+        },
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-text-1",
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-title-1",
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-price-1",
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-variant_picker-1",
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-quantity_selector-1",
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-buy_buttons-1",
+        "template--17200626958589__65ae0afe-a554-4a65-b034-d84c287b630b-share-1"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage-0": {
       "type": "collage",
       "blocks": {
@@ -89,7 +159,7 @@
         "template--17200626958589__98f10c3b-d217-4002-a513-2aadf50d5b20-featured_collection-3"
       ],
       "settings": {
-        "title": "Trending artists",
+        "title": "Artists",
         "heading_size": "h2",
         "image_ratio": "portrait",
         "columns_desktop": 3,
@@ -104,6 +174,7 @@
   },
   "order": [
     "rich_text",
+    "65ae0afe-a554-4a65-b034-d84c287b630b",
     "collage-0",
     "98f10c3b-d217-4002-a513-2aadf50d5b20"
   ]
