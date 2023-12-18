@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our gallery",
+            "text": "Welcome to our generative art gallery",
             "link": ""
           }
         }
