@@ -6,8 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest algorithms",
-            "heading_size": "h1"
+            "heading": "Browse our latest themes",
+            "heading_size": "h2"
           }
         }
       },
