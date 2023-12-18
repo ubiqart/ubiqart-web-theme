@@ -174,7 +174,7 @@
     "e0643438-8fb5-436c-be50-039898ee4505": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Blog",
+        "heading": "News",
         "heading_size": "h2",
         "blog": "news",
         "post_limit": 3,
