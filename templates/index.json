@@ -51,7 +51,7 @@
         "c72fd25f-7889-4746-9419-8889afd0225b"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Themes",
         "heading_size": "h2",
         "desktop_layout": "right",
         "mobile_layout": "collage",
@@ -61,47 +61,19 @@
         "padding_bottom": 0
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 68
-      }
-    },
     "98f10c3b-d217-4002-a513-2aadf50d5b20": {
       "type": "collection-list",
       "blocks": {
         "template--17200626958589__98f10c3b-d217-4002-a513-2aadf50d5b20-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "moebius"
           }
         },
         "template--17200626958589__98f10c3b-d217-4002-a513-2aadf50d5b20-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "philippe-druillet"
           }
         },
         "template--17200626958589__98f10c3b-d217-4002-a513-2aadf50d5b20-featured_collection-3": {
@@ -133,7 +105,6 @@
   "order": [
     "rich_text",
     "collage-0",
-    "featured-collection",
     "98f10c3b-d217-4002-a513-2aadf50d5b20"
   ]
 }
